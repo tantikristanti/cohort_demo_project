@@ -192,9 +192,3 @@ python scripts/python/04_statistical_modeling.py
 ```
 
 ---
-
-## Results Summary
-
-* Prevalence: 22% Hypertension in the simulated cohort.
-* Significant Predictors (p<0.05): Age (OR=1.04), BMI (OR=1.12), Air Quality Exposure (OR=1.08). Smoking was not significant in this synthetic dataset.
-* Model Performance: AUC = 0.78.
