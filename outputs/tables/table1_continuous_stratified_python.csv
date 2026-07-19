@@ -1,0 +1,3 @@
+hypertension,age_count,age_mean,age_std,age_median,age_<lambda_0>,age_<lambda_1>,bmi_count,bmi_mean,bmi_std,bmi_median,bmi_<lambda_0>,bmi_<lambda_1>,glucose_count,glucose_mean,glucose_std,glucose_median,glucose_<lambda_0>,glucose_<lambda_1>,air_quality_index_count,air_quality_index_mean,air_quality_index_std,air_quality_index_median,air_quality_index_<lambda_0>,air_quality_index_<lambda_1>
+0,1219,30.24,5.17,30.0,27.0,34.0,1219,24.11,3.92,24.0,21.5,26.7,1219,95.34,15.39,95.3,84.9,105.2,1219,70.14,28.92,71.0,45.0,95.0
+1,281,30.2,5.47,30.0,27.0,34.0,281,24.05,4.14,24.0,21.3,26.9,281,96.19,14.24,95.3,86.0,105.9,281,71.67,28.92,71.0,47.0,99.0
